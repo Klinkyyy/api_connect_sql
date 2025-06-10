@@ -1,0 +1,9 @@
+# Sla virtuele omgeving over
+venv/
+
+# Cachebestanden van Python
+__pycache__/
+*.pyc
+
+# Gevoelige info zoals wachtwoorden/API keys
+config/.env
